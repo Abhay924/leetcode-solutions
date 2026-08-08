@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhay924/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Abhay924/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhay924/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/Abhay924/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Abhay924/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/Abhay924/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Abhay924/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhay924/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Abhay924/leetcode-solutions/tree/master/0067-add-binary) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Abhay924/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0045-jump-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/Abhay924/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhay924/leetcode-solutions/tree/master/0877-stone-game) |
