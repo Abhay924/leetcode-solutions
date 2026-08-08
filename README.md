@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Abhay924/leetcode-solutions/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/Abhay924/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Abhay924/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhay924/leetcode-solutions/tree/master/0877-stone-game) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhay924/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Abhay924/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay924/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhay924/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Abhay924/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhay924/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Abhay924/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhay924/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
