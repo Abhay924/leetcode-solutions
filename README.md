@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Abhay924/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Abhay924/leetcode-solutions/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhay924/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhay924/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Abhay924/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhay924/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Abhay924/leetcode-solutions/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay924/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhay924/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -221,4 +223,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhay924/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Tree
+|  |
+| ------- |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Abhay924/leetcode-solutions/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Abhay924/leetcode-solutions/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
+## Union-Find
+|  |
+| ------- |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Abhay924/leetcode-solutions/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 <!---LeetCode Topics End-->
