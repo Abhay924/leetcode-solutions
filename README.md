@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhay924/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Abhay924/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhay924/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhay924/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhay924/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Abhay924/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Abhay924/leetcode-solutions/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay924/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhay924/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -221,18 +223,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Abhay924/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Abhay924/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhay924/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Abhay924/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhay924/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Abhay924/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Counting Sort
 |  |
 | ------- |
@@ -311,4 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/Abhay924/leetcode-solutions/tree/master/0391-perfect-rectangle) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Abhay924/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Abhay924/leetcode-solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
