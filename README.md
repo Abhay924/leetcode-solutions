@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Abhay924/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0220-contains-duplicate-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
+| [0327-count-of-range-sum](https://github.com/Abhay924/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 | [0391-perfect-rectangle](https://github.com/Abhay924/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Abhay924/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhay924/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Abhay924/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0327-count-of-range-sum](https://github.com/Abhay924/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 ## Database
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhay924/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Abhay924/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0327-count-of-range-sum](https://github.com/Abhay924/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abhay924/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0327-count-of-range-sum](https://github.com/Abhay924/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -348,4 +352,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
+| [0327-count-of-range-sum](https://github.com/Abhay924/leetcode-solutions/tree/master/0327-count-of-range-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Abhay924/leetcode-solutions/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Abhay924/leetcode-solutions/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Abhay924/leetcode-solutions/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
