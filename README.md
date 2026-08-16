@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Abhay924/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Abhay924/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Abhay924/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0877-stone-game](https://github.com/Abhay924/leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Abhay924/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0220-contains-duplicate-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Abhay924/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhay924/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhay924/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Abhay924/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Abhay924/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Abhay924/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay924/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abhay924/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Abhay924/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Merge Sort
 |  |
 | ------- |
