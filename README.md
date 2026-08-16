@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Abhay924/leetcode-solutions/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2029-stone-game-ix](https://github.com/Abhay924/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhay924/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2542-maximum-subsequence-score](https://github.com/Abhay924/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhay924/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhay924/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhay924/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Abhay924/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2542-maximum-subsequence-score](https://github.com/Abhay924/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhay924/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhay924/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Abhay924/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Abhay924/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Abhay924/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2542-maximum-subsequence-score](https://github.com/Abhay924/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay924/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abhay924/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Abhay924/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/Abhay924/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 ## Merge Sort
 |  |
 | ------- |
