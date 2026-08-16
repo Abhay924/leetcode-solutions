@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Abhay924/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Abhay924/leetcode-solutions/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/Abhay924/leetcode-solutions/tree/master/0087-scramble-string) |
+| [0132-palindrome-partitioning-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0214-shortest-palindrome](https://github.com/Abhay924/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0087-scramble-string](https://github.com/Abhay924/leetcode-solutions/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhay924/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0486-predict-the-winner](https://github.com/Abhay924/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhay924/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1140-stone-game-ii) |
