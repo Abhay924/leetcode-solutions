@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Abhay924/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Abhay924/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0147-insertion-sort-list](https://github.com/Abhay924/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Abhay924/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/Abhay924/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0220-contains-duplicate-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Abhay924/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
