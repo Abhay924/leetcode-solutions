@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Abhay924/leetcode-solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Abhay924/leetcode-solutions/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/Abhay924/leetcode-solutions/tree/master/0087-scramble-string) |
+| [0126-word-ladder-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0214-shortest-palindrome](https://github.com/Abhay924/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Abhay924/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Abhay924/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Abhay924/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Abhay924/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0126-word-ladder-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0391-perfect-rectangle](https://github.com/Abhay924/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Abhay924/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Abhay924/leetcode-solutions/tree/master/0051-n-queens) |
+| [0126-word-ladder-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Abhay924/leetcode-solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0685-redundant-connection-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Abhay924/leetcode-solutions/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Graph Theory
@@ -458,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Abhay924/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
