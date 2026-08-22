@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Abhay924/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Abhay924/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0415-add-strings](https://github.com/Abhay924/leetcode-solutions/tree/master/0415-add-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Abhay924/leetcode-solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhay924/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Abhay924/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Abhay924/leetcode-solutions/tree/master/0067-add-binary) |
 | [0391-perfect-rectangle](https://github.com/Abhay924/leetcode-solutions/tree/master/0391-perfect-rectangle) |
+| [0415-add-strings](https://github.com/Abhay924/leetcode-solutions/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Abhay924/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhay924/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Abhay924/leetcode-solutions/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Abhay924/leetcode-solutions/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Abhay924/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhay924/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhay924/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
