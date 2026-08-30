@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Abhay924/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Abhay924/leetcode-solutions/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2029-stone-game-ix](https://github.com/Abhay924/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhay924/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhay924/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Abhay924/leetcode-solutions/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2542-maximum-subsequence-score](https://github.com/Abhay924/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Abhay924/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Abhay924/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Abhay924/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhay924/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2542-maximum-subsequence-score](https://github.com/Abhay924/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay924/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
