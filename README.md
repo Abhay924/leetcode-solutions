@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/Abhay924/leetcode-solutions/tree/master/0262-trips-and-users) |
 | [0577-employee-bonus](https://github.com/Abhay924/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [1251-average-selling-price](https://github.com/Abhay924/leetcode-solutions/tree/master/1251-average-selling-price) |
+| [1321-restaurant-growth](https://github.com/Abhay924/leetcode-solutions/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/Abhay924/leetcode-solutions/tree/master/1341-movie-rating) |
 | [1667-fix-names-in-a-table](https://github.com/Abhay924/leetcode-solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Abhay924/leetcode-solutions/tree/master/1683-invalid-tweets) |
