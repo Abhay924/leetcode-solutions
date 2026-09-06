@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Abhay924/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/Abhay924/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/Abhay924/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Abhay924/leetcode-solutions/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0216-combination-sum-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0220-contains-duplicate-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Abhay924/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Abhay924/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0126-word-ladder-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0391-perfect-rectangle](https://github.com/Abhay924/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Abhay924/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhay924/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0486-predict-the-winner](https://github.com/Abhay924/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Abhay924/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Abhay924/leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Abhay924/leetcode-solutions/tree/master/0051-n-queens) |
 | [0126-word-ladder-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Abhay924/leetcode-solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -535,4 +540,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
