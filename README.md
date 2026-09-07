@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Abhay924/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Abhay924/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1514-path-with-maximum-probability](https://github.com/Abhay924/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/Abhay924/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Abhay924/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Abhay924/leetcode-solutions/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
+| [1514-path-with-maximum-probability](https://github.com/Abhay924/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abhay924/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Abhay924/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [1514-path-with-maximum-probability](https://github.com/Abhay924/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 | [2542-maximum-subsequence-score](https://github.com/Abhay924/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 ## Merge Sort
 |  |
@@ -551,4 +554,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0140-word-break-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/Abhay924/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/Abhay924/leetcode-solutions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
