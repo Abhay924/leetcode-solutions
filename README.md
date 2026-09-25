@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Abhay924/leetcode-solutions/tree/master/0415-add-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhay924/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Abhay924/leetcode-solutions/tree/master/1927-sum-game) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Abhay924/leetcode-solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhay924/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Abhay924/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Array
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Abhay924/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Abhay924/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Abhay924/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhay924/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Abhay924/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhay924/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhay924/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/Abhay924/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhay924/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/Abhay924/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Abhay924/leetcode-solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
@@ -471,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0685-redundant-connection-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0685-redundant-connection-ii) |
+| [1096-brace-expansion-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Abhay924/leetcode-solutions/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhay924/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
