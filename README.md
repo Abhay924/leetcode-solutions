@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Abhay924/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhay924/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhay924/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhay924/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Abhay924/leetcode-solutions/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2542-maximum-subsequence-score](https://github.com/Abhay924/leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhay924/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Abhay924/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/Abhay924/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Abhay924/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhay924/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Abhay924/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Abhay924/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Abhay924/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Abhay924/leetcode-solutions/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhay924/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Abhay924/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay924/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhay924/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Abhay924/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhay924/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay924/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Abhay924/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
 |  |
 | ------- |
