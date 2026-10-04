@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Abhay924/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0415-add-strings](https://github.com/Abhay924/leetcode-solutions/tree/master/0415-add-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay924/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Abhay924/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhay924/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Abhay924/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay924/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay924/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0486-predict-the-winner](https://github.com/Abhay924/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay924/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Abhay924/leetcode-solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Abhay924/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Abhay924/leetcode-solutions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Abhay924/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay924/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Abhay924/leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhay924/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Abhay924/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhay924/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Abhay924/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhay924/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhay924/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay924/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
