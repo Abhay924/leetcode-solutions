@@ -1,0 +1,31 @@
+
+class Solution {
+    public int maxSum(List<Integer> nums, int k) {
+        final long MOD = 1_000_000_007L;
+        int[] bitCount = new int[30];
+        for (int num : nums) {
+            for (int bit = 0; bit < 30; bit++) {
+                if ((num & (1 << bit)) != 0) {
+                    bitCount[bit]++;
+                }
+            }
+        }
+        long ans = 0;
+        for (int i = 0; i < k; i++) {
+            long num = 0;
+            for (int bit = 0; bit < 30; bit++) {
+                if (bitCount[bit] > 0) {
+                    num |= (1L << bit);
+                    bitCount[bit]--;
+                }
+            }
+            ans = (ans + num * num) % MOD;
+        }
+        return (int) ans;
+    }
+}
+
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
